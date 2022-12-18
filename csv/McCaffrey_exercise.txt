@@ -1,0 +1,6 @@
+Age,Income,Sex,Religion,Politics
+27,24000,F,Pres,Dem
+48,98000,M,Cath,Rep
+33,44000,M,Other,Rep
+30,29000,F,Cath,Ind
+66,65000,M,Pres,Dem
